@@ -23,7 +23,7 @@
 ## Installation
 
 ```shell
-composer require "muxiaoqi/wechat_sdk" -vvv
+composer require "muxiaoqi/wechat_sdk:dev-master" -vvv
 ```
 
 ## Usage
